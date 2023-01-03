@@ -1,0 +1,9 @@
+1. Ile rekordów znajduje się w tabeli nyc_streets? -> W tabeli znajduje się 19091 rekordów.
+
+2. Ile ulic w Nowym Jorku ma nazwy zaczynające się na „B”, „Q” i „M”? -> Ulic, których nazwy zaczynają się na wymienione litery jest 2102.
+
+3. Jaka jest populacja miasta Nowy Jork? -> Populacja miasta Nowy Jork to: 8175032.
+
+4. Jaka jest populacja Bronxu, Manhattanu i Queens? -> Populacja Bronxu = 1385108, Manhattanu = 1585873, a Queens = 2230621.
+
+5. Ile dzielnic ("neighborhoods") znajduje się w każdej gminie (borough)? -> W dzielnicy Brooklyn są 23 gminy, w Manhattan 28, w Queens 30, w Staten Island 24 i w The Bronx 24. Łącznie 129.
